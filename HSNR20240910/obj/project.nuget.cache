@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mc2td/oIpT0iumSRqyFV+9F+Eoam+DjfFDBTyyY16W/Z7zMM9TScaOmip3HXePnU8WK3Y6NT0M0e0nDmmNRtpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Documents\\c#\\HSNR20240910\\HSNR20240910\\HSNR20240910.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
